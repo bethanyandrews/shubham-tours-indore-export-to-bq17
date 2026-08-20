@@ -1,0 +1,16 @@
+{
+  "name": "Shubham Tour & Travels",
+  "short_name": "Shubham Travels",
+  "description": "Your trusted travel partner in Indore. Book cabs, tours, and more.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f2ed",
+  "theme_color": "#1a5c5c",
+  "icons": [
+    {
+      "src": "/logo.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    }
+  ]
+}
